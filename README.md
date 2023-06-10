@@ -8,13 +8,13 @@ Overall, I bring a unique blend of technical proficiency and communication skill
 ## ⚔️🛡 Mission
 As a software engineer, my passion for learning is never-ending, and my goal is to be a catalyst for change that helps make the world a better place through innovation and skill. I hold a strong belief in the value of diversity, both in skill sets and individuals, as they bring unique perspectives that lead to exceptional products and thriving communities.
 
-## 🌱 Projects:
+<!-- ## 🌱 Projects:
 - I collaborated with a team to design and implement an e-wallet app using Java, MySQL, and React.js for the front end. I implemented the back-end ( https://github.com/OnyedikaBenjamin/E-Wallet-Application )
 - I collaborated with a team to design and implement an e-voting app using Django and PostgreSQL and React.js for the front end. ( https://github.com/Enecode/e-voting )
 - Using Django, I created a web-based blog application. ( https://github.com/Enecode/myblog )
 - Created a React Digital app that display my profile ( https://enecode.github.io/digital-profile )
 - Created a React app that display my profile ( https://enecode.github.io/digital-profile )
-- Created a web-based Meme Generator app with React.js (https://github.com/Enecode/meme-generator-react )
+- Created a web-based Meme Generator app with React.js (https://github.com/Enecode/meme-generator-react ) -->
 
 ## Get in touchgit
 - Linkedin: https://www.linkedin.com/in/onyedikabenjamin/
