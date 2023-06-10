@@ -9,7 +9,7 @@ Overall, I bring a unique blend of technical proficiency and communication skill
 As a software engineer, my passion for learning is never-ending, and my goal is to be a catalyst for change that helps make the world a better place through innovation and skill. I hold a strong belief in the value of diversity, both in skill sets and individuals, as they bring unique perspectives that lead to exceptional products and thriving communities.
 
 ## 🌱 Projects:
-- I collaborated with a team to design and implement an e-wallet app using Java, MySQL, and React.js for the front end. I implemented the front-end ( https://github.com/Enecode/e-wallet-frontend )
+- I collaborated with a team to design and implement an e-wallet app using Java, MySQL, and React.js for the front end. I implemented the back-end ( https://github.com/Enecode/e-wallet-frontend )
 - I collaborated with a team to design and implement an e-voting app using Django and PostgreSQL and React.js for the front end. ( https://github.com/Enecode/e-voting )
 - Using Django, I created a web-based blog application. ( https://github.com/Enecode/myblog )
 - Created a React Digital app that display my profile ( https://enecode.github.io/digital-profile )
