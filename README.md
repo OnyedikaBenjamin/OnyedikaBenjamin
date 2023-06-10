@@ -21,7 +21,7 @@ As a software engineer, my passion for learning is never-ending, and my goal is 
 - Linkedin: https://www.linkedin.com/in/onyedikabenjamin/
 - Instagram : https://www.instagram.com/udegbunam_benjamin/
 - Gmail : udegbunamonyedikabenjamin@gmail.com
-- Show Case : https://www.showwcase.com/udegbunamonyedikaben
+- Show Case : https://udegbunamonyedikaben.showwcase.com/https://udegbunamonyedikaben.showwcase.com/
 
 
 </p>
