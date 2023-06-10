@@ -41,7 +41,7 @@ As a software engineer, my passion for learning is never-ending, and my goal is 
 <div>
   <p><img text-align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=onyedikabenjamin&show_icons=true&locale=en&layout=compact" alt="Udegbunam-Benjamin" /></p>
 
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=enecode&show_icons=true&locale=en" alt="Udegbunam-Benjamin" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=onyedikabenjamin&show_icons=true&locale=en" alt="Udegbunam-Benjamin" /></p>
 
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enecode&" alt="Udegbunam-Benjamin" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=onyedikabenjamin&" alt="Udegbunam-Benjamin" /></p>
 </div>
