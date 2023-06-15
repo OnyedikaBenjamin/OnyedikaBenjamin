@@ -1,5 +1,5 @@
 ## Benjamin Udegbunam -- Software Engineer
-Hi, 👋I'm Benjamin, a Software-Engineer with a versatile skill set that encompasses software development and technical writing. My job profile combines my passion for driving meaningful change in the world through software engineering with my proficiency in communicating complex technical concepts in a clear and concise manner.
+Hi, 👋I'm Benjamin, a Software-Engineer with a versatile skill set that encompasses software development. My job profile combines my passion for driving meaningful change in the world through software engineering with my proficiency in communicating complex technical concepts in a clear and concise manner.
 
 In terms of technical skills, I have expertise in several programming languages and frameworks, including Java, Spring-Boot, JavaScript, React, MySQL, and PostgreSQL. Leveraging my skills, I create beginner-friendly resources that make programming concepts accessible to those starting out in the tech space. You can find some of my technical writing below.
 
