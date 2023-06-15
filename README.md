@@ -1,5 +1,5 @@
 ## Benjamin Udegbunam -- Software Engineer
-Hi, 👋I'm Benjamin, a software engineer at Semicolon Africa with a versatile skill set that encompasses software development and technical writing. My job profile combines my passion for driving meaningful change in the world through software engineering with my proficiency in communicating complex technical concepts in a clear and concise manner.
+Hi, 👋I'm Benjamin, a Software with a versatile skill set that encompasses software development and technical writing. My job profile combines my passion for driving meaningful change in the world through software engineering with my proficiency in communicating complex technical concepts in a clear and concise manner.
 
 In terms of technical skills, I have expertise in several programming languages and frameworks, including Java, Spring-Boot, JavaScript, React, MySQL, and PostgreSQL. Leveraging my skills, I create beginner-friendly resources that make programming concepts accessible to those starting out in the tech space. You can find some of my technical writing below.
 
@@ -20,7 +20,7 @@ As a software engineer, my passion for learning is never-ending, and my goal is 
 - Linkedin: https://www.linkedin.com/in/onyedikabenjamin/
 - Instagram : https://www.instagram.com/udegbunam_benjamin/
 - Gmail : udegbunamonyedikabenjamin@gmail.com
-- Show Case : https://udegbunamonyedikaben.showwcase.com/
+<!-- - Show Case : https://udegbunamonyedikaben.showwcase.com/ -->
 
 
 </p>
