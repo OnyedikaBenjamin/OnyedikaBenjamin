@@ -22,13 +22,14 @@ Hello, I'm Benjamin popularly known as Ben-Billion, a results-driven full-stack 
 
 Here's a glimpse of the technologies that power my projects:
 
-- **Frontend**: [Frameworks, Libraries, and Tools]
-- **Backend**: [Frameworks, Databases, DevOps]
-- **Cloud & Deployment**: [Cloud Platforms, Containers, Serverless]
-- **Data & AI**: [Data Science Tools, Machine Learning]
-- **DevOps & CI/CD**: [Tools and Best Practices]
-- **Version Control**: Git, GitHub, GitLab
-- **Agile Methodologies**: Scrum, Kanban
+Programming Languages: JavaScript, Java, Php.
+• Programming Frameworks: React, NodeJS, Laravel, Springboot.
+• Database: MySql, MongoDB, PostgreSql.
+• Web Technologies: Html5, Css, Http, Bootstrap, Material-UI.
+• Methodologies: Tdd(J-unit), Bdd(Mokito).
+• Source Control: Github, Sub-version
+• Application Design: OOAD, REST.
+• Other Technologies: Maven, Junit, Jira.
 
 ---
 
