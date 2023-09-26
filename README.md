@@ -22,7 +22,6 @@ Hello, I'm Benjamin popularly known as Ben-Billion, a results-driven full-stack 
 
 Here's a glimpse of the technologies that power my projects:
 
-- **Languages**: [List the languages you are proficient in]
 - **Frontend**: [Frameworks, Libraries, and Tools]
 - **Backend**: [Frameworks, Databases, DevOps]
 - **Cloud & Deployment**: [Cloud Platforms, Containers, Serverless]
