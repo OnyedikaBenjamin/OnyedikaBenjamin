@@ -5,7 +5,7 @@
 🚀 Full-Stack Developer | Open-Source Advocate | Tech Enthusiast
 
 <!-- Contact Information -->
-📫 Contact:  https://wa.me/+2349130946146
+📫 Contact:  +2349130946146
 ---
 
 ## About Me
@@ -25,7 +25,7 @@ Here's a glimpse of the technologies that power my projects:
 - Programming Languages: Java, JavaScript, Php.
 - Programming Frameworks: Springboot, React, Laravel.
 - Database: MySql, MongoDB, PostgreSql.
-- Web Technologies: Html5, Css, Http, Bootstrap, Material-UI.
+- Web Technologies: Livewire, Html5, Css, Http, Bootstrap, Material-UI.
 - Methodologies: Tdd, Bdd.
 - Source Control: Github, Sub-version
 - Application Design: OOAD, REST.
@@ -33,7 +33,7 @@ Here's a glimpse of the technologies that power my projects:
 
 ---
 
-<--- ## Open-Source Impact
+<!--- ## Open-Source Impact
 
 I'm deeply involved in the open-source community, driving meaningful change through contributions to projects that shape our digital landscape. Here are some of my noteworthy contributions:
 
@@ -53,7 +53,7 @@ I'm deeply involved in the open-source community, driving meaningful change thro
    [![GitHub forks](https://img.shields.io/github/forks/user/project-xyz)](link)
 
 ---
--->
+
 ## Engage with Insights
 
 I enjoy sharing my insights through well-crafted blog posts and articles on diverse tech topics. Here are some of my recent pieces:
@@ -65,12 +65,13 @@ I enjoy sharing my insights through well-crafted blog posts and articles on dive
 3. [Tech Tutorial](https://yourblog.com/tutorial): Highlight a comprehensive tech tutorial you've authored.
 
 ---
+-->
 
 ## Let's Connect
 
-- **LinkedIn**: [Your LinkedIn Profile](LinkedIn URL)
-- **Email**: [Your Email Address](mailto:youremail@example.com)
-- **Website**: [Your Personal Website](https://yourwebsite.com)
+- **LinkedIn**: https://www.linkedin.com/in/onyedikabenjamin/
+- **Email**: udegbunamonyedikabenjamin@gmail.com
+- **WhatsApp **: https://wa.me/+2349130946146
 
 Feel free to connect with me, discuss collaborations, or inquire about my projects and expertise. Let's forge a connection and collectively shape the future of technology!
 
@@ -88,9 +89,6 @@ Your support fuels my passion for innovation and empowers me to create meaningfu
 
 ---
 
-## Gratitude
-
-Thank you for visiting my GitHub profile! I'm excited to be part of the dynamic tech ecosystem and look forward to connecting with fellow developers, collaborators, and tech enthusiasts. Together, we can elevate technology to new heights!
 
 
 <!--## Benjamin Udegbunam -- Software Engineer
