@@ -71,13 +71,13 @@ I enjoy sharing my insights through well-crafted blog posts and articles on dive
 
 - **LinkedIn**: https://www.linkedin.com/in/onyedikabenjamin/
 - **Email**: udegbunamonyedikabenjamin@gmail.com
-- **WhatsApp **: https://wa.me/+2349130946146
+- **WhatsApp**: https://wa.me/+2349130946146
 
 Feel free to connect with me, discuss collaborations, or inquire about my projects and expertise. Let's forge a connection and collectively shape the future of technology!
 
 ---
 
-## Support My Endeavors
+<!--## Support My Endeavors
 
 If you appreciate my open-source contributions, blog posts, or simply want to support my endeavors, you can contribute in the following ways:
 
