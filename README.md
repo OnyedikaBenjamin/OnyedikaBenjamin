@@ -10,7 +10,7 @@
 
 ## About Me
 
-Hello, I'm Benjamin popularly known as Ben Billion, a results-driven full-stack developer, open-source enthusiast, and technology aficionado. My mission is to engineer innovative solutions that bridge the gap between ideas and impact. With a relentless passion for technology, I've embarked on a journey to craft software that makes a difference.
+Hello, I'm Benjamin popularly known as Ben-Billion, a results-driven full-stack developer, open-source enthusiast, and technology aficionado. My mission is to engineer innovative solutions that bridge the gap between ideas and impact. With a relentless passion for technology, I've embarked on a journey to craft software that makes a difference.
 
 - 👨‍💻 I specialize in architecting scalable and robust applications.
 - 🌱 I'm a continuous learner, always exploring the latest trends in tech.
@@ -18,7 +18,6 @@ Hello, I'm Benjamin popularly known as Ben Billion, a results-driven full-stack 
 <!--- 📖 I share my knowledge through in-depth [myblog](https://myblog.com).
 - 🏆 Proud recipient of [Awards or Recognitions] for contributions to [Specific Field].-->
 ---
-
 ## Tech Stack
 
 Here's a glimpse of the technologies that power my projects:
