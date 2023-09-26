@@ -1,7 +1,6 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=OnyedikaBenjamin&label=Profile%20views&color=0e75b6&style=flat" alt="onyedikabenjamin" /> </p>
 <!-- Your Name -->
 # Benjamin Udegbunam
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=OnyedikaBenjamin&label=Profile%20views&color=0e75b6&style=flat" alt="onyedikabenjamin" /> </p>
 <!-- Short Bio or Tagline -->
 🚀 Full-Stack Developer | Open-Source Advocate | Tech Enthusiast
 
