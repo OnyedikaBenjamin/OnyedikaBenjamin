@@ -5,7 +5,7 @@
 🚀 Full-Stack Developer | Open-Source Advocate | Tech Enthusiast
 
 <!-- Contact Information -->
-📫 Contact: udegbunamonyedikabenjamin | https://www.linkedin.com/in/onyedikabenjamin/ | https://wa.me/+2349130946146
+📫 Contact:  https://wa.me/+2349130946146
 ---
 
 ## About Me
