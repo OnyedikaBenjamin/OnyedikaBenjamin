@@ -122,7 +122,7 @@ As a software engineer, my passion for learning is never-ending, and my goal is 
 <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> <img src= https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src= https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white </a>   
 <a href="https://https://github.com//"  target="_blank" rel="noreferrer"> <img src= https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white </a> 
--->
+
 
   </p>
 <div>
@@ -131,4 +131,5 @@ As a software engineer, my passion for learning is never-ending, and my goal is 
   <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=onyedikabenjamin&show_icons=true&locale=en" alt="Udegbunam-Benjamin" /></p>
 
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=onyedikabenjamin&" alt="Udegbunam-Benjamin" /></p>
-</div>
+  
+</div>-->
