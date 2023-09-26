@@ -26,14 +26,14 @@ Here's a glimpse of the technologies that power my projects:
 - Programming Frameworks: Springboot, React, Laravel.
 - Database: MySql, MongoDB, PostgreSql.
 - Web Technologies: Html5, Css, Http, Bootstrap, Material-UI.
-- Methodologies: Tdd(J-unit), Bdd(Mokito).
+- Methodologies: Tdd, Bdd.
 - Source Control: Github, Sub-version
 - Application Design: OOAD, REST.
 - Other Technologies: Maven, Junit, Jira.
 
 ---
 
-## Open-Source Impact
+<--- ## Open-Source Impact
 
 I'm deeply involved in the open-source community, driving meaningful change through contributions to projects that shape our digital landscape. Here are some of my noteworthy contributions:
 
@@ -53,7 +53,7 @@ I'm deeply involved in the open-source community, driving meaningful change thro
    [![GitHub forks](https://img.shields.io/github/forks/user/project-xyz)](link)
 
 ---
-
+-->
 ## Engage with Insights
 
 I enjoy sharing my insights through well-crafted blog posts and articles on diverse tech topics. Here are some of my recent pieces:
