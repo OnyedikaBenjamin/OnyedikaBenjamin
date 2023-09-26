@@ -22,8 +22,8 @@ Hello, I'm Benjamin popularly known as Ben-Billion, a results-driven full-stack 
 
 Here's a glimpse of the technologies that power my projects:
 
-Programming Languages: JavaScript, Java, Php.
-- Programming Frameworks: React, NodeJS, Laravel, Springboot.
+- Programming Languages: Java, JavaScript, Php.
+- Programming Frameworks: Springboot, React, Laravel.
 - Database: MySql, MongoDB, PostgreSql.
 - Web Technologies: Html5, Css, Http, Bootstrap, Material-UI.
 - Methodologies: Tdd(J-unit), Bdd(Mokito).
