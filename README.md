@@ -2,7 +2,7 @@
 # Benjamin Udegbunam
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=OnyedikaBenjamin&label=Profile%20views&color=0e75b6&style=flat" alt="onyedikabenjamin" /> </p>
 <!-- Short Bio or Tagline -->
-🚀 Full-Stack Developer | Open-Source Advocate | Tech Enthusiast
+🚀 Full-Stack Developer | Open-Source Advocate | Business Development Manager
 
 <!-- Contact Information -->
 📫 Contact:  +2349130946146
